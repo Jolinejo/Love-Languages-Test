@@ -10,7 +10,7 @@ This project is a Love Languages Quiz application developed using Flask, designe
    ```
 2. Navigate to the project directory:
    ```bash
-   cd love-languages-quiz
+   cd Love-Languages-Test
    ```
 3. Install dependencies using pip:
    ```bash
